@@ -1,0 +1,10 @@
+html{
+    text-align: center;
+}
+h1{
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+p {
+    background-color: lightgrey;
+}
